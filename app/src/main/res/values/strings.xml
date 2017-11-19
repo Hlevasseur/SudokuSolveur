@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SudokuSolveur</string>
+    <string name="mainTitle">Resolveur Sudoku!</string>
+    <string name="btnResolve">Résoudre</string>
+</resources>
